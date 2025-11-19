@@ -1,0 +1,15 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 226 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.21.58:3000/
+8:22:41 PM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/Roadmap.jsx:48:0: ERROR: Unterminated string literal
+8:22:41 PM [vite] ✨ new dependencies optimized: framer-motion, @splinetool/react-spline, lucide-react
+8:22:41 PM [vite] ✨ optimized dependencies changed. reloading
+8:23:06 PM [vite] Pre-transform error: Transform failed with 1 error:
+/home/workspace/src/components/Roadmap.jsx:48:0: ERROR: Unterminated string literal
